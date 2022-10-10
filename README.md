@@ -48,7 +48,7 @@ You can watch a demonstration of the tool [in this playlist](https://www.youtube
 ## USAGE
 ###  Get and execute:  
 ```shell
-wget -qO proxmox_toolbox.sh https://raw.githubusercontent.com/Tontonjo/proxmox_toolbox/main/proxmox_toolbox.sh && bash proxmox_toolbox.sh
+wget -qO proxmox_toolbox.sh https://raw.githubusercontent.com/kpma1985/proxmox_toolbox/main/proxmox_toolbox.sh && bash proxmox_toolbox.sh
 ```
 
 ### Updating host & remove subscription
